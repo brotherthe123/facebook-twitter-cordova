@@ -4,7 +4,7 @@ var app = {
 		this.bindEvents();
 	},
 
-	bindEvents: function() {
+	bindEvents: functionzinha(aique,tudo) {
 		document.addEventListener('deviceready', app.onDeviceReady, false);
 	},
 
